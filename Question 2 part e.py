@@ -1,7 +1,6 @@
 # Andrew Centa
 
 # execute temporal difference learning
-# The code gets stuck sometimes.
 # I commented a completed print at the bottom.
 
 from reinforcement_learning4e import PassiveTDAgent, run_single_trial
